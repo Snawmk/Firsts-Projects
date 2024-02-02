@@ -1,4 +1,4 @@
-![Airplane image](/JapanFlight-RadarForDiscord/primeira-viagem-aviao-capa.jpg)
+![Airplane image](primeira-viagem-aviao-capa.jpg)
 
 ## 🖥️ Project
 This is an project that get the cheapest prices of airplane tickets from Brazil to Japan and send it to a discord Chat.
