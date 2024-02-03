@@ -37,7 +37,7 @@ def lambda_handler(event, context):
     
     # Declaração dos parâmetros do Bot
     bot = {
-        'webhook_url':'https://discord.com/api/webhooks/1202644291776675990/Iq3_O4wCQELY6SB7nW2ACo-DDY5tpRtbcEo47TUwIJFW6QjO8aoa45Ga_Ujs3UhjT8qJ',
+        'webhook_url':'key',
         'title_msg':f'Radar de preço de passagem aérea Brasil pro Japão\nIda: {dataIda}| Volta: {dataVolta}',
         'msg':f'Companhia: {voo_mais_barato["companhia"]}\nPreço: {precoFormatado}',
         'color':'0000000',
